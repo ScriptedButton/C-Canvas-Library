@@ -7,7 +7,7 @@ Developed by Cole Brooks
 
 <h4>This is a C# Library for the Canvas LMS API, I will be continuing this project and it will continually grow.</h4>
 
-Current APIs:
+# Current APIs:
 <ul>
 <li>Submissions</li>
 <li>Users</li>
