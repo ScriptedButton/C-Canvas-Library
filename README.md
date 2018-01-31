@@ -15,3 +15,6 @@ Current APIs:
 <li>Courses</li>
 <li>Submissions</li>
 </ul>
+
+<h5>The C# Canvas Library utilizes Newtonsoft's JSON package, it is required to use.</h5>
+In order to use the API, you must set the token, this can be done by calling API.setToken(...)
